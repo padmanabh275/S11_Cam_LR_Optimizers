@@ -1,1 +1,2 @@
-# S11_Cam_LR_Optimizers
+</br>**References**</br>
+https://github.com/kuangliu/pytorch-cifar
