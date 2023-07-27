@@ -20,9 +20,9 @@
 
 </br>RUN 1</br>
 
-</br>Best train accuracy = %</br>
+</br>Best train accuracy = 98.75 %</br>
 
-</br>Best test accuracy =  %</br>
+</br>Best test accuracy =  88.71 %</br>
 
 </br>Number of parameters = 11,173,962 </br>
 
