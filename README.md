@@ -18,7 +18,7 @@
 
 **</br>Results</br>**
 
-</br>RUN 1</br>
+</br></br>
 
 </br>Best train accuracy = 98.75 %</br>
 
