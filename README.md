@@ -18,8 +18,6 @@
 
 **</br>Results</br>**
 
-</br></br>
-
 </br>Best train accuracy = 98.75 %</br>
 
 </br>Best test accuracy =  88.71 %</br>
